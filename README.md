@@ -28,7 +28,7 @@ I’m a **Full-Stack Developer** specializing in modern JavaScript technologies.
 ---
 
 ## 💻 My Tech Stack
-<img align="right" height="250" width="300" alt="" src="https://i.ibb.co/JjSZgBng/10-coding-dribbble.gif" />
+<img align="right" height="240" width="280" alt="" src="https://i.ibb.co/JjSZgBng/10-coding-dribbble.gif" />
 <h3>When I code, I rely on</h3>
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
