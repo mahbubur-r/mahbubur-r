@@ -1,4 +1,4 @@
-<img align=”right” alt=”Coding” width=”400” src="https://i.ibb.co/mrbnjHJX/Beige-Minimalist-Business-Linked-In-Article-Cover-Image-1.png"/>
+<img align=”right” alt=”Coding” width=”400” src="https://i.ibb.co/234Fzvb9/Beige-Minimalist-Business-Linked-In-Article-Cover-Image-2.png"/>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+Mahbubur+Rahman..;Nice+to+meet+you!&center=true&size=30&color=8B4513&weight=900">
