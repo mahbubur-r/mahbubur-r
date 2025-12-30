@@ -1,4 +1,4 @@
-<img align=”right” alt=”Coding” width=”400” src="https://i.ibb.co/234Fzvb9/Beige-Minimalist-Business-Linked-In-Article-Cover-Image-2.png"/>
+<img align=”right” alt=”Coding” width=”400” src="https://i.ibb.co/0jkHNmFH/Cover-Photo.png"/>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I+am+Mahbubur+Rahman..;Nice+to+meet+you!&center=true&size=30&color=8B4513&weight=900">
@@ -6,20 +6,18 @@
 </h1>
 
 # Hi!, I'm Mahbubur Rahman  
-## MERN Stack Web Developer 
-## ![Full-Stack Developer](https://img.shields.io/badge/MERN--Stack-Web--Developer-blueviolet?style=for-the-badge)
-###  JavaScript | React | Node.js | Express.js | MongoDB | Firebase | Tailwind
+## Frontend Developer 
+## ![FrontendDeveloper](https://img.shields.io/badge/Frontend--Developer-MERN--Stack-blueviolet?style=for-the-badge)
+###  Typescript | Javascript | React| Next.js | Node.js | Express.js | MongoDB | Firebase | Tailwind
 ---
 ## 🌟 About Me
-I’m a **MERN Stack Developer** specializing in modern JavaScript technologies. I build fast and user-friendly applications using **React**, **Next.js**, **Node.js**, and **Express.js**, and create secure, scalable backends with **MongoDB** and **Firebase**. I love turning ideas into real, production-ready solutions.
+I’m a **Frontend Developer** specializing in Typescript and modern JavaScript technologies. I build fast and user-friendly applications using **React**, **Next.js**, **Node.js**, and **Express.js**, and create secure, scalable backends with **MongoDB** and **Firebase**. I love turning ideas into real, production-ready solutions.
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahbubur-r) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahbubur-r) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://mahbubur.web.app/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mahbubur-r@outlook.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahbubur.de@gmail.com) 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mahbubur-r)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mahbubur-r) 
 ---
 
 ## 💻 My Tech Stack
@@ -27,13 +25,13 @@ I’m a **MERN Stack Developer** specializing in modern JavaScript technologies.
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**         | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-| **Frontend Technologies** |![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![DaisyUI](https://img.shields.io/badge/-DaisyUI-1f2937?style=flat-square&logo=daisyui&logoColor=white)
-| **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)                                                  |
-| **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)                                      |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) 
+| **Languages**         | ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+| **Frontend Technologies** |![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-333333?style=flat&logo=reactquery)
+| **Backend and Database** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=api)|
+| **Authentication**          | ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=jsonwebtokens) ![NextAuth](https://img.shields.io/badge/-NextAuth-333333?style=flat&logo=nextdotjs) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)               
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) 
 
- ## Github Stats
+## Github Stats
 ## ![Profile Views](https://komarev.com/ghpvc/?username=mahbubur-r&style=flat-square&color=8B4513)
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
@@ -58,7 +56,7 @@ Check out some of my projects on my GitHub repositories!
 ---
 
 ## 🌱 Currently Learning
-- TypeScript, Express.js & Next.js  
+- TypeScript, Next.js, SQL   & Express.js
 - Advanced MongoDB & Aggregation  
 - Cloud Deployment & CI/CD pipelines  
 
